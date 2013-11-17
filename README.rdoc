@@ -1,7 +1,6 @@
-
 In this Android Application I used draggable grid view library. The purpose of this application demonstrate how to populate a file from assets folder. 
-If you want to populate more than one resource, basically you can create a Bitmap ArrayList and add every bitmap's file name into this arraylist. 
-If you want to you drawable folders instead of assets, you can just check this link: 
+If you want to populate more than one resource, you can create a Bitmap ArrayList and add every bitmap's file path into this arraylist. 
+If you want to you drawable folders instead of assets, check this link: 
 >>>http://developer.android.com/guide/topics/ui/layout/gridview.html
 
 Here is more information about DraggableGridView: 
@@ -60,10 +59,3 @@ If you'd rather not have to separately keep track of the grid's elements, I sugg
 
 * Remove scrolling timer
 * Improve performance
-
-== Notes
-
-* This was developed targeting Android 2.2 (API level 8), though I'm sure it can be made to work on lower versions.
-* The sample project's main activity doesn't handle onConfigurationChanged, so it will restart if the screen orientation changes. I'll fix this soon, but it's not particularly important.
-* DraggableGridView and all associated code are (c) 2011, Animoto Inc, available under the Apache License, Version 2.0.
-* Check us out at http://www.animoto.com !
