@@ -7,8 +7,12 @@ ScreenShots
 ==========
 image populated version from Assets directory
 ![ScreenShot](http://www.imageurlhost.com/images/gkrl4w5sa5ch7alhmni2.png)
+
+
 draggable grid view example
 ![ScreenShot](http://www.imageurlhost.com/images/5sv4e74b719sjqvily4y.png)
+
+
 Here is more information about DraggableGridView: 
 -yakdere
 
